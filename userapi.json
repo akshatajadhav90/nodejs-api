@@ -1,0 +1,36 @@
+[
+    {
+        "id":1,
+         "name": "Akshata",
+         "username" : "ak",
+         "email": "abc@gmail.com"
+    },
+
+    {
+        "phone": 78232863922,
+        "website": "jdksds.com"
+    },
+    {
+        "id":2,
+         "name": "Karishma",
+         "username" : "ka",
+         "email": "abdf@gmail.com"
+    },
+
+    {
+        "phone": 16654567545,
+        "website": "dcdcjdbcd.com"
+    },
+
+    {
+        "id":3,
+         "name": "Karan",
+         "username" : "karan",
+         "email": "karan@gmail.com"
+    },
+
+    {
+        "phone": 948574475545,
+        "website": "dnjkfhdjcdb.com"
+    }
+]
